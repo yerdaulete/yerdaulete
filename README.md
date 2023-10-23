@@ -1,4 +1,11 @@
-### Hi there 👋
+<h1>Hi, I'm Yerdaulet</h1>
+
+<h2>👨‍💻 Cybersecurity Projects:</h2>
+
+- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
+  - [Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
 
 <!--
 **yerdaulete/yerdaulete** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -2,9 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [https://github.com/yerdaulete/Windows-EventLog-Failed-RDP-Logins-Source-IP-to-full-GeoData-Conversion](https://github.com/yerdaulete/Windows-EventLog-Failed-RDP-Logins-Source-IP-to-full-GeoData-Conversion)
-  - [Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/yerdaulete/SIEM-Lab)
   - [Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
 
 <!--

@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/yerdaulete/SIEM-Lab)
-  - [Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Active Directory Bulk User Creation](https://github.com/yerdaulete/Active-Directory-Bulk-User-Creation)
 
 <!--
 **yerdaulete/yerdaulete** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -6,6 +6,7 @@
   - [Active Directory Bulk User Creation](https://github.com/yerdaulete/Active-Directory-Bulk-User-Creation)
   - [FIM (File Integrity Monitor)](https://github.com/yerdaulete/PowerShell-Integrity-FIM)
   - [SQL-Injection-Lab](https://github.com/yerdaulete/SQL-Injection-Lab)
+  - [PJPT CheetSheet](https://github.com/yerdaulete/PJPT-CheatSheet/tree/main)
 
 
 <!--
